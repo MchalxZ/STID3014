@@ -1,6 +1,6 @@
 # ***BASEBALL INFORMATION SYSTEM***
 The project is created for managing all the information related to baseball with connection of database system that provides data anomalies function on the Graphical User Interface.<br /><br />
-Status:**ALWAYS UPDATE**
+Status:**COMPLETED**
 --------------------------------------------------------------------
 ### *DATABASE SYSTEM AND INFORMATION RETRIEVAL*<br /><br />
 NAME:_CHONG LI XIANG_<br />
